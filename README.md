@@ -1,3 +1,8 @@
+DEPLOYMENT:
+https://explorer.hamp.app/program?id=tictactoedaniel123.aleo
+
+
+
 # Aleo Deployment Demo
 
 In this repository we will go through the steps to deploy your own Leo program on the Aleo Network.
